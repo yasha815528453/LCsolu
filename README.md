@@ -1,5 +1,5 @@
 # LCsolu
 
-Testing/learning~
 
-muhahah
+
+Algorithm practice
